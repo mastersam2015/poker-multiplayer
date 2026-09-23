@@ -1,0 +1,1 @@
+<meta HTTP-EQUIV='refresh' CONTENT='12; URL=index2.php'>
