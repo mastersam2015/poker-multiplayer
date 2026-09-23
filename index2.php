@@ -1125,7 +1125,7 @@ jQuery.ajax({
         success: function(resultData) {
            if(resultData==1){
 			   
-			   window.location.href = 'pass1.php?q='+$('#pula1').html();
+			   window.location.href = 'pass2.php?q='+$('#pula1').html();
 			   
 		   }
 	  
