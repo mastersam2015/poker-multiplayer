@@ -577,22 +577,14 @@ fclose($myfile);
 
 if($tura==1){
 	
-		$fp = fopen("tura.txt", "w");
 
 	
-fputs($fp, "2");
-fclose($fp);
-	$hazard=1;
 }
 
 
 if($tura==2){
 	
-		$fp = fopen("tura.txt", "w");
-
-	
-fputs($fp, "1");
-fclose($fp);
+$hazard=1;
 	
 }
 
