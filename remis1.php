@@ -1,4 +1,5 @@
 <meta HTTP-EQUIV='refresh' CONTENT='3; URL=index.php'>
+loading...
 <?
 $doda=$_GET["q"];
 $myfile=fopen("bank1.txt", "r");
